@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwikandreas&label=Profile%20views&color=0e75b6&style=flat" alt="kwikandreas" /> </p>
 
-- 🔭 I’m currently working on [Car Rush](https://bit-grow.itch.io/carrush)
+- 🔭 I’m currently working on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
 
 - 🌱 I’m currently learning **Tailwind CSS, Json, NodeJS**
 

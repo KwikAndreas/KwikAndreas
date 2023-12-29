@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kwik Andreas Jonathan</h1>
 <h3 align="center">Junior Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwikandreas&label=Profile%20views&color=0e75b6&style=flat" alt="kwikandreas" /> </p>
-
 - 🔭 I’m currently working on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
 
 - 🌱 I’m currently learning **Tailwind CSS, Json, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://bit-grow.itch.io/](https://bit-grow.itch.io/)
 
-- 💬 Ask me about **C#, dart, html, react**
+- 💬 Ask me about **C#, dart, HTML, React**
 
 - 📫 How to reach me **kwikandreasjonathan@gmail.com**
 

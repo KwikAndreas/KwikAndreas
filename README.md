@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
 
-- 🌱 I’m currently learning **Tailwind CSS, Json, NodeJS**
+- 🌱 I’m currently learning **CSS3, HTML5, JavaScript, C#**
 
 - 👨‍💻 All of my projects are available at [https://bit-grow.itch.io/](https://bit-grow.itch.io/) or [https://www.behance.net/kwikandreas](https://www.behance.net/kwikandreas)
 

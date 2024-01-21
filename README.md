@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwik Andreas Jonathan</h1>
 <h3 align="center">Junior Programmer</h3>
 
-- 🔭 I’m currently working on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
+- 🔭 I’m currently developing on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
 
 - 🌱 I’m currently learning **CSS3, HTML5, JavaScript, C#**
 

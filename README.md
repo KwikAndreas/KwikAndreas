@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently developing on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Unity C#, UE5 Blueprint, Python, Dart**
+- 🌱 I’m currently learning **JavaScript, Unity C#, UE5 Blueprint, Python, Dart, PHP**
 
 - 👨‍💻 All of my projects are available at [https://bit-grow.itch.io/](https://bit-grow.itch.io/) or [https://www.behance.net/kwikandreas](https://www.behance.net/kwikandreas)
 
-- 💬 Ask me about **C#, dart, HTML, React**
+- 💬 Ask me about **Dart, HTML, PHP**
 
 - 📫 How to reach me **kwikandreasjonathan@gmail.com**
 

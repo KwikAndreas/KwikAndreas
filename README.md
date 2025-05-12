@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kwik Andreas Jonathan</h1>
 <h3 align="center">Junior Programmer</h3>
 
-- 🔭 I’m currently developing on [Car Rush](https://bit-grow.itch.io/carrush), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
+- 🔭 I’m currently developing on [Waste Sorter](https://bit-grow.itch.io/waste-sorter), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
 
 - 🌱 I’m currently learning **JavaScript, Unity C#, UE5 Blueprint, Python, Dart, React, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://bit-grow.itch.io/](https://bit-grow.itch.io/) or [https://www.behance.net/kwikandreas](https://www.behance.net/kwikandreas)
+- 👨‍💻 Other projects are available at [https://bit-grow.itch.io/](https://bit-grow.itch.io/) or [https://www.behance.net/kwikandreas](https://www.behance.net/kwikandreas)
 
-- 💬 Ask me about **Dart, HTML, PHP**
+- 💬 Ask me about **Dart, C#, Python**
 
 - 📫 How to reach me **kwikandreasjonathan@gmail.com**
 

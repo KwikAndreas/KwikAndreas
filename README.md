@@ -61,7 +61,7 @@ Hi! I'm **Kwik Andreas Jonathan**
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KwikAndreas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KwikAndreas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&cache_seconds=1800"/>
 </p>
 
 ---

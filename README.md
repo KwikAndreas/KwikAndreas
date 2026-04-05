@@ -38,7 +38,7 @@ Hi! I'm **Kwik Andreas Jonathan**
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,python,js,ts,react,nextjs,tailwind,firebase,supabase,vercel,hostinger" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,python,php,js,ts,react,nextjs,tailwind,firebase,supabase,vercel" />
 </p>
 
 ---

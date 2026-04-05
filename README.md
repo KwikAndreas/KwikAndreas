@@ -26,7 +26,7 @@ Hi! I'm **Kwik Andreas Jonathan**
   <a href="mailto:kwikandreasjonathan@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/kwik jonathan">
+  <a href="https://linkedin.com/in/kwik-jonathan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/kwikandreas">
@@ -54,14 +54,14 @@ Hi! I'm **Kwik Andreas Jonathan**
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwikandreas&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KwikAndreas&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kwikandreas&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KwikAndreas&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---

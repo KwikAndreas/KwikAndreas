@@ -29,7 +29,7 @@ Hi! I'm **Kwik Andreas Jonathan**
   <a href="https://linkedin.com/in/kwik jonathan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/kwik_andreas_jonathan">
+  <a href="https://instagram.com/kwikandreas">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -45,23 +45,23 @@ Hi! I'm **Kwik Andreas Jonathan**
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwikandreasjonathan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kwikandreas&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreasjonathan&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreas&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwikandreasjonathan&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwikandreas&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kwikandreasjonathan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kwikandreas&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---

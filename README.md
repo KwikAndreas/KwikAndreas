@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Kwik+Andreas+Jonathan;Mobile+Developer;Game+Developer;UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Kwik+Andreas+Jonathan;Mobile+Developer;Game+Developer;Web+Developer" />
 </p>
 
 ---

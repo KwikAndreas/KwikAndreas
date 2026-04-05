@@ -1,18 +1,63 @@
 <h1 align="center">Hi 👋, I'm Kwik Andreas Jonathan</h1>
-<h3 align="center">Junior Programmer</h3>
+<h3 align="center">🚀 Mobile & Game Developer | UI/UX Enthusiast</h3>
 
-- 🔭 I’m currently developing on [Waste Sorter](https://bit-grow.itch.io/waste-sorter), [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan) Game
+---
 
-- 🌱 I’m currently learning **JavaScript, Unity C#, UE5 Blueprint, Python, Dart, React, Typescript**
+### 👨‍💻 About Me
+- 🔭 Currently building:
+  - 🎮 [Waste Sorter](https://bit-grow.itch.io/waste-sorter)
+  - 👻 [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan)
+- 🌱 Currently learning & improving:
+  - **JavaScript, React, TypeScript**
+  - **Unity C#, Unreal Engine 5 (Blueprint)**
+  - **Python & Dart (Flutter)**
+- 💡 Passionate about:
+  - Mobile App Development 📱
+  - Game Development 🎮
+  - UI/UX Design ✨
+- 💬 Ask me about:
+  - **Flutter (Dart), Unity C#, Python**
 
-- 👨‍💻 Other projects are available at [https://bit-grow.itch.io/](https://bit-grow.itch.io/) or [https://www.behance.net/kwikandreas](https://www.behance.net/kwikandreas)
+---
 
-- 💬 Ask me about **Dart, C#, Python**
+### 🌐 Portfolio & Projects
+- 🎮 Games: https://bit-grow.itch.io/
+- 🎨 Design: https://www.behance.net/kwikandreas
 
-- 📫 How to reach me **kwikandreasjonathan@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/kwik jonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kwik jonathan" height="30" width="40" /></a>
-<a href="https://instagram.com/kwik_andreas_jonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kwik_andreas_jonathan" height="30" width="40" /></a>
-</p
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,python,js,ts,react,tailwind,firebase" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **kwikandreasjonathan@gmail.com**
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/kwik jonathan" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+<a href="https://instagram.com/kwik_andreas_jonathan" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote
+> "Building impactful digital experiences through code, design, and creativity."

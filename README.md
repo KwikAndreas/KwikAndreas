@@ -1,63 +1,77 @@
-<h1 align="center">Hi 👋, I'm Kwik Andreas Jonathan</h1>
-<h3 align="center">🚀 Mobile & Game Developer | UI/UX Enthusiast</h3>
+<!-- HEADER -->
+<h1 align="center">Welcome to my profile 👋</h1>
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently building:
-  - 🎮 [Waste Sorter](https://bit-grow.itch.io/waste-sorter)
-  - 👻 [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan)
-- 🌱 Currently learning & improving:
-  - **JavaScript, React, TypeScript**
-  - **Unity C#, Unreal Engine 5 (Blueprint)**
-  - **Python & Dart (Flutter)**
-- 💡 Passionate about:
-  - Mobile App Development 📱
-  - Game Development 🎮
-  - UI/UX Design ✨
-- 💬 Ask me about:
-  - **Flutter (Dart), Unity C#, Python**
-
----
-
-### 🌐 Portfolio & Projects
-- 🎮 Games: https://bit-grow.itch.io/
-- 🎨 Design: https://www.behance.net/kwikandreas
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,python,js,ts,react,tailwind,firebase" />
-</p>
-
----
-
-### 📫 Contact Me
-- 📧 Email: **kwikandreasjonathan@gmail.com**
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/kwik jonathan" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="https://instagram.com/kwik_andreas_jonathan" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwikAndreas&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Kwik+Andreas+Jonathan;Mobile+Developer;Game+Developer;UI%2FUX+Designer" />
 </p>
 
 ---
 
-### ✨ Quote
-> "Building impactful digital experiences through code, design, and creativity."
+## 👋 About Me
+Hi! I'm **Kwik Andreas Jonathan**  
+🚀 Passionate about building **Mobile Apps, Games, and UI/UX Experiences**
+
+- 🎮 Currently working on:
+  - [Waste Sorter](https://bit-grow.itch.io/waste-sorter)
+  - [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan)
+- 🌱 Currently learning:
+  - React, TypeScript, Next.js  
+  - Unity C# & Unreal Engine 5  
+  - Advanced Flutter Development  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:kwikandreasjonathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kwik jonathan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kwik_andreas_jonathan">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,python,js,ts,react,nextjs,tailwind,firebase" />
+</p>
+
+---
+
+## 📊 Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kwikandreasjonathan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreasjonathan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwikandreasjonathan&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kwikandreasjonathan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 💬 Dev Quote
+<p align="center">
+  <i>"Great apps are built with logic, but loved because of design."</i>
+</p>
+
+---
+
+<!-- WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>

@@ -45,8 +45,8 @@ Hi! I'm **Kwik Andreas Jonathan**
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwikAndreas&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KwikAndreas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreas&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -61,7 +61,7 @@ Hi! I'm **Kwik Andreas Jonathan**
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kwikandreas&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KwikAndreas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---

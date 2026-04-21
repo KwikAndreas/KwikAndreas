@@ -9,12 +9,12 @@
 
 ## 👋 About Me
 Hi! I'm **Kwik Andreas Jonathan**  
-🚀 Passionate about building **Mobile Apps, Games, and UI/UX Experiences**
+🚀 Passionate about building **Mobile Apps, Web Development, Games, and UI/UX Experiences**
 
-- 🎮 Currently working on:
+- Currently working on:
   - [Waste Sorter](https://bit-grow.itch.io/waste-sorter)
-  - [Dikejar Setan](https://bit-grow.itch.io/dikejar-setan)
-- 🌱 Currently learning:
+  - [GKI CINDA](https://gkicinda.id)
+- Currently learning:
   - React, TypeScript, Next.js  
   - Unity C# & Unreal Engine 5  
   - Advanced Flutter Development  

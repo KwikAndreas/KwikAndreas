@@ -20,7 +20,7 @@
 ### 📂 Core Initiatives
 
 * **[Kelas BIOS](https://kelasbios.vercel.app/)** LMS web platform engineered for student organization workflows and content management.
-* **Revdadas**
+* **[RevDadas](https://revdadas.vercel.app/)**
   AI-driven regional revenue tracking and anomaly detection engine (Featured Hackathon Project).
 * **Pasukan Oranye**
   3D environmental simulation utilizing Unity's Universal Render Pipeline (URP) and configured with the New Input System.

@@ -1,66 +1,58 @@
 <div align="center">
-  <h1>Kwik Andreas Jonathan</h1>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Game+Developer;Informatics+Student;Shipped+40%2B+Projects" alt="Typing SVG" />
+  <h1 align="center">KWIK ANDREAS JONATHAN</h1>
+  <p align="center">
+    Full-Stack Engineer • Game Developer • Informatics Student
   </p>
-  <p>
-    <a href="mailto:kwikandreasjonathan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/kwik-jonathan">
-      <img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/kwikandreas">
-      <img src="https://img.shields.io/badge/Instagram-21262D?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+  <p align="center">
+    <a href="mailto:kwikandreasjonathan@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://linkedin.com/in/kwik-jonathan"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/kwikandreas"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </p>
 </div>
 
-<br />
+<br/>
 
-## About Me
+> **Architecting scalable web platforms and immersive 3D experiences.** <br/>
+> Currently pursuing Informatics at Universitas Bunda Mulia, with over 4 years of development experience and 40+ shipped projects. I specialize in clean system design, from front-end user interfaces to complex backend routing and Unity-based interactive mechanics.
 
-I am an Informatics undergraduate student at Universitas Bunda Mulia and a developer with over 4 years of experience. My expertise bridges the gap between scalable web applications and immersive interactive media. Across 40+ projects, I focus on writing clean architecture, optimizing performance, and delivering seamless user experiences.
+<br/>
 
-- **Web Development:** Architecting robust platforms using Next.js, TypeScript, TailwindCSS, and backend services like Supabase & Firebase.
-- **Game Development:** Building interactive 3D experiences and mechanics in Unity (C#), utilizing the Universal Render Pipeline (URP), New Input System, and Blender.
-- **Networking:** Experienced in enterprise topology design and Cisco network simulations.
+### 📂 Core Initiatives
 
----
+* **[Kelas BIOS](https://kelasbios.vercel.app/)** LMS web platform engineered for student organization workflows and content management.
+* **Revdadas**
+  AI-driven regional revenue tracking and anomaly detection engine (Featured Hackathon Project).
+* **Pasukan Oranye**
+  3D environmental simulation utilizing Unity's Universal Render Pipeline (URP) and configured with the New Input System.
+* **[Waste Sorter](https://bit-grow.itch.io/waste-sorter)** Interactive educational physics-based sorting mechanic built for the web.
+* **[GKI CINDA](https://gkicinda.id)** Community-focused web platform optimized for user engagement.
 
-## Featured Projects
+<br/>
 
-* **[Kelas BIOS](https://kelasbios.vercel.app/)** — A comprehensive Learning Management System (LMS) built to facilitate student organization activities.
-* **Revdadas** — An AI-driven predictive analytics system designed for regional revenue tracking and fraud detection.
-* **Pasukan Oranye** — A 3D simulation game developed in Unity where players engage in public environmental cleaning tasks.
-* **[Waste Sorter](https://bit-grow.itch.io/waste-sorter)** — An interactive educational sorting game.
-* **[GKI CINDA](https://gkicinda.id)** — A functional web platform built for community engagement.
+### ⚙️ Technical Stack
 
----
+**Web & Cloud Architecture**<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
 
-## Tech Stack & Tools
+**Game Development & Systems**<br/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,python,dart&perline=8" alt="Languages & Frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=unity,cs,blender,supabase,firebase,vercel&perline=8" alt="Tools & DB" />
-</div>
+<br/>
 
----
+### 📊 Analytics
 
-## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreas&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</p>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=KwikAndreas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
-</div>
+<br/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=4&width=100%" alt="footer"/></p>

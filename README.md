@@ -1,77 +1,66 @@
-<!-- HEADER -->
-<h1 align="center">Welcome to my profile 👋</h1>
+<div align="center">
+  <h1>Kwik Andreas Jonathan</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Game+Developer;Informatics+Student;Shipped+40%2B+Projects" alt="Typing SVG" />
+  </p>
+  <p>
+    <a href="mailto:kwikandreasjonathan@gmail.com">
+      <img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/kwik-jonathan">
+      <img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/kwikandreas">
+      <img src="https://img.shields.io/badge/Instagram-21262D?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Kwik+Andreas+Jonathan;Mobile+Developer;Game+Developer;Web+Developer" />
-</p>
+<br />
 
----
+## About Me
 
-## 👋 About Me
-Hi! I'm **Kwik Andreas Jonathan**  
-🚀 Passionate about building **Mobile Apps, Web Development, Games, and UI/UX Experiences**
+I am an Informatics undergraduate student at Universitas Bunda Mulia and a developer with over 4 years of experience. My expertise bridges the gap between scalable web applications and immersive interactive media. Across 40+ projects, I focus on writing clean architecture, optimizing performance, and delivering seamless user experiences.
 
-- Currently working on:
-  - [Waste Sorter](https://bit-grow.itch.io/waste-sorter)
-  - [GKI CINDA](https://gkicinda.id)
-- Currently learning:
-  - React, TypeScript, Next.js  
-  - Unity C# & Unreal Engine 5  
-  - Advanced Flutter Development  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:kwikandreasjonathan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/kwik-jonathan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/kwikandreas">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+- **Web Development:** Architecting robust platforms using Next.js, TypeScript, TailwindCSS, and backend services like Supabase & Firebase.
+- **Game Development:** Building interactive 3D experiences and mechanics in Unity (C#), utilizing the Universal Render Pipeline (URP), New Input System, and Blender.
+- **Networking:** Experienced in enterprise topology design and Cisco network simulations.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,python,php,js,ts,react,nextjs,tailwind,firebase,supabase,vercel" />
-</p>
+## Featured Projects
+
+* **[Kelas BIOS](https://kelasbios.vercel.app/)** — A comprehensive Learning Management System (LMS) built to facilitate student organization activities.
+* **Revdadas** — An AI-driven predictive analytics system designed for regional revenue tracking and fraud detection.
+* **Pasukan Oranye** — A 3D simulation game developed in Unity where players engage in public environmental cleaning tasks.
+* **[Waste Sorter](https://bit-grow.itch.io/waste-sorter)** — An interactive educational sorting game.
+* **[GKI CINDA](https://gkicinda.id)** — A functional web platform built for community engagement.
 
 ---
 
-## 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwikAndreas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreas&theme=tokyonight&hide_border=true"/>
-</p>
+## Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,python,dart&perline=8" alt="Languages & Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender,supabase,firebase,vercel&perline=8" alt="Tools & DB" />
+</div>
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KwikAndreas&theme=tokyo-night"/>
-</p>
+## GitHub Analytics
 
----
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KwikAndreas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwikandreas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KwikAndreas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&cache_seconds=1800"/>
-</p>
-
----
-
-## 💬 Dev Quote
-<p align="center">
-  <i>"Great apps are built with logic, but loved because of design."</i>
-</p>
-
----
-
-<!-- WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+</div>

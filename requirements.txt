@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 requests
 lxml
-=======
-requests
-lxml
->>>>>>> e05e6b2444f02798da1a87de194f08e745075cf1
 python-dateutil

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import datetime
 from dateutil import relativedelta
 import requests
@@ -346,7 +345,7 @@ if __name__ == '__main__':
         '{:<21}'.format('Total function time:'), '{:>11}'.format('%.4f' % (user_time + age_time + loc_time + commit_time + star_time + repo_time + contrib_time)),
         ' s \033[E\033[E\033[E\033[E\033[E\033[E\033[E\033[E', sep='')
     print('Total GitHub GraphQL API calls:', '{:>3}'.format(sum(QUERY_COUNT.values())))
-=======
+
 import datetime
 from dateutil import relativedelta
 import requests
@@ -694,5 +693,5 @@ if __name__ == '__main__':
         '{:<21}'.format('Total function time:'), '{:>11}'.format('%.4f' % (user_time + age_time + loc_time + commit_time + star_time + repo_time + contrib_time)),
         ' s \033[E\033[E\033[E\033[E\033[E\033[E\033[E\033[E', sep='')
     print('Total GitHub GraphQL API calls:', '{:>3}'.format(sum(QUERY_COUNT.values())))
->>>>>>> e05e6b2444f02798da1a87de194f08e745075cf1
+    
     for funct_name, count in QUERY_COUNT.items(): print('{:<28}'.format('   ' + funct_name + ':'), '{:>6}'.format(count))

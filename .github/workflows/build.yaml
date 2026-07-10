@@ -19,7 +19,9 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: kwikandreas
-        run: python today.py
+        run: |
+             mkdir -p cache
+             python today.py
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"

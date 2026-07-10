@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="320">
+  <rect width="100%" height="100%" fill="#0d1117" rx="15" />
+  
+  <text x="25" y="35" font-family="Menlo, Monaco, 'Courier New', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">
+    <tspan x="25" dy="0">                       =+++                     kwik@andreas --------------------------------------</tspan>
+    <tspan x="25" dy="16">                   **********                   OS: .............................. Windows 11 / WSL</tspan>
+    <tspan x="25" dy="16">                 ****#*#**###**                 Uptime: .......................... 21 years, 8 days</tspan>
+    <tspan x="25" dy="16">                +*#####******##*+               Host: .... Asus ROG Zephyrus G15 (16GB) / Ryzen Rig</tspan>
+    <tspan x="25" dy="16">                *###**+++====+##*               Education: ................ Universitas Bunda Mulia </tspan>
+    <tspan x="25" dy="16">                *##****+++++==*#+               IDE: ......................... VSCode, Unity Editor</tspan>
+    <tspan x="25" dy="16">                *##++**+==+++==*+               </tspan>
+    <tspan x="25" dy="16">                 *#+=====-==--===               Languages.Web: ...... TypeScript, Next.js, Supabase</tspan>
+    <tspan x="25" dy="16">                  *+===+*+*+===-                Languages.Game: ... C#, Unity URP, New Input System</tspan>
+    <tspan x="25" dy="16">                   +++****++*+=                 </tspan>
+    <tspan x="25" dy="16">                    ++++++===++                 Contact -------------------------------------------</tspan>
+    <tspan x="25" dy="16">                     *++++++*#*+                Email: .............. kwikandreasjonathan@gmail.com</tspan>
+    <tspan x="25" dy="16">                    ##*******#**********        LinkedIn: ........................... kwik-jonathan</tspan>
+    <tspan x="25" dy="16">                   ####***+*#####*#******* </tspan>
+    <tspan x="25" dy="16">                ######*+=+############******    GitHub Stats --------------------------------------</tspan>
+    <tspan x="25" dy="16">              ###*#####+###***#+=**#####*****   Repos:<tspan id="repo_data_dots">.</tspan><tspan id="repo_data">0</tspan> {Contributed:<tspan id="contrib_data_dots">.</tspan><tspan id="contrib_data">0</tspan>} | Stars:<tspan id="star_data_dots">.</tspan><tspan id="star_data">0</tspan></tspan>
+    <tspan x="25" dy="16">            ##############**+*=*+=*########**   Commits:<tspan id="commit_data_dots">.</tspan><tspan id="commit_data">0</tspan> | Followers:<tspan id="follower_data_dots">.</tspan><tspan id="follower_data">0</tspan></tspan>
+    <tspan x="25" dy="2">            ############+*+=+*+=*+*##########   Lines of Code on GitHub:<tspan id="loc_data_dots">.</tspan><tspan id="loc_data">0</tspan> (<tspan id="loc_add" fill="#3fb950">0</tspan>++, <tspan id="loc_del" fill="#f85149">0</tspan>--)</tspan>
+  </text>
+</svg>

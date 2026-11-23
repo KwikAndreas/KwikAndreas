@@ -1,2 +1,6 @@
 # Local-only archive of previous profile README versions
 archive/
+
+# Python
+__pycache__/
+*.pyc
